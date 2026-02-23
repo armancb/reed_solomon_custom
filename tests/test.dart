@@ -1,6 +1,6 @@
 import 'dart:convert';
-import 'galois_field.dart';
-import 'reed_solomon.dart';
+import '../lib/galois_field.dart';
+import '../lib/reed_solomon.dart';
 
 // --- 1. MODULATOR (Bytes to Flashlight Array) ---
 List<bool> modulateTo4PPM(List<int> bytes) {

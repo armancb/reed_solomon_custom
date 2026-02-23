@@ -1,5 +1,5 @@
-import 'galois_field.dart';
-import 'reed_solomon.dart';
+import '../lib/galois_field.dart';
+import '../lib/reed_solomon.dart';
 
 void main() {
   // Initialize GF(2^8) tables with primitive polynomial 0x11D

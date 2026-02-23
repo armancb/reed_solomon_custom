@@ -1,0 +1,16 @@
+{
+  "configVersion": 2,
+  "packages": [
+    {
+      "name": "bits_blink",
+      "rootUri": "../",
+      "packageUri": "lib/",
+      "languageVersion": "3.0"
+    }
+  ],
+  "generator": "pub",
+  "generatorVersion": "3.10.0",
+  "flutterRoot": "file:///C:/Programming/flutter/flutter",
+  "flutterVersion": "3.38.1",
+  "pubCache": "file:///C:/Users/arman/AppData/Local/Pub/Cache"
+}
